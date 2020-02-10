@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "wlctalk": {
+      "hosting": {
+        "angular-fire-demo": [
+          "wlctalk"
+        ]
+      }
+    }
+  }
+}
